@@ -6,3 +6,9 @@ Today I am learning TypeScript from [Anisul Islam YouTube Channel](https://www.y
 - Why TypeScript is Important
 - How to Work with TypeScript
 - Basic Data Types
+
+
+## Topics Covered Today **Date:** 30/09/2025
+- Union Data Type
+- Array Data type
+- Tuple Data type 
