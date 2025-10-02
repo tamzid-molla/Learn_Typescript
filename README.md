@@ -12,3 +12,9 @@ Today I am learning TypeScript from [Anisul Islam YouTube Channel](https://www.y
 - Union Data Type
 - Array Data type
 - Tuple Data type 
+
+
+## Topics Covered Today **Date:** 02/10/2025
+- Enum Data type => Numeric, string and hetergenous 
+- Any type 
+- object Data type 
