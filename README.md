@@ -18,3 +18,7 @@ Today I am learning TypeScript from [Anisul Islam YouTube Channel](https://www.y
 - Enum Data type => Numeric, string and hetergenous 
 - Any type 
 - object Data type 
+
+
+## Topics Covered Today **Date:** 03/10/2025
+- Custom data type 
