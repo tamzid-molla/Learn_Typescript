@@ -27,3 +27,9 @@ Today I am learning TypeScript from [Anisul Islam YouTube Channel](https://www.y
 - Class and object
 - Inheritance 
 - Encapsulation
+
+## Topics Covered Today **Date:** 13/12/2025
+- Dom manipulation
+- Function signature 
+- Interface 
+- Generics Basics 
